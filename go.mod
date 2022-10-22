@@ -8,6 +8,6 @@ require (
 	github.com/jinzhu/gorm v1.9.16
 	github.com/spf13/viper v1.10.1
 	github.com/swaggo/swag v1.8.0
-	github.com/valyala/fasthttp v1.33.0
+	github.com/valyala/fasthttp v1.34.0
 	golang.org/x/net v0.0.0-20220225172249-27dd8689420f
 )
