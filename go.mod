@@ -9,5 +9,5 @@ require (
 	github.com/spf13/viper v1.10.1
 	github.com/swaggo/swag v1.8.0
 	github.com/valyala/fasthttp v1.33.0
-	golang.org/x/net v0.0.0-20220225172249-27dd8689420f
+	golang.org/x/net v0.7.0
 )
